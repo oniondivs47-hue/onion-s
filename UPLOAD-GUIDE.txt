@@ -1,0 +1,7 @@
+﻿GitHub/Vercel upload ke liye is folder ke ANDAR ka sara content copy karke repo root mein paste karo.
+
+Important:
+1. Sirf is folder ke contents upload karne hain, outer folder ko repo ke andar mat daalna.
+2. Main file index.html hai.
+3. Images site-images folder ke andar hain.
+4. Agar image change karni ho to site-images ke andar same file replace kar do.
